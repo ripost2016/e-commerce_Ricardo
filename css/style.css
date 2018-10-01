@@ -51,3 +51,10 @@ h6{
 main h1{
 	display: none;
 }
+
+#hero {
+	height: 450px;
+	position: relative;
+	background: url("../images/chica.jpg") no-repeat;
+	background-size: cover;
+}
