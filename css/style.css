@@ -1,0 +1,53 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700&subset=latin-ext');
+/*@import url(font-awesome.min.css);*/
+
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 100%;
+}
+
+p{
+	color:#646263;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #717171;
+	font-weight: 700;
+}
+
+a{
+	text-decoration: none;
+}
+
+footer{
+	background-color: #ebebeb;
+}
+
+h1{
+	font-size: 140%;
+}
+
+h2{
+	font-size: 120%;
+}
+
+h3{
+	font-size: 110%;
+}
+
+h4{
+	font-size: 105%;
+}
+
+h5{
+	font-size: 90%;
+}
+
+h6{
+	font-size: 80%;
+}
+
+main h1{
+	display: none;
+}
